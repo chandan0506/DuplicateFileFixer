@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_clean"
+        android:icon="@drawable/delete"
+        android:title="@string/action_clean"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_refresh"
+        android:icon="@drawable/retry"
+        android:title="@string/action_rescan"
+        app:showAsAction="ifRoom" />
+
+
+</menu>

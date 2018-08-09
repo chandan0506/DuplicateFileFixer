@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DuplicateFileFinder</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <!-- Menu items -->
+    <string name="action_clean">Clean</string>
+    <string name="action_rescan">Rescan</string>
+    <string name="delete_file">Delete File</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="rationale_title">Insufficient permissions</string>
+    <string name="duplicate_files">Duplicate Files</string>
+    <string name="Duplicate_Images">Duplicate Images</string>
+    <string name="Duplicate_Videos">Duplicate Videos</string>
+    <string name="Clean_Duplicate_Images">Clean Duplicate Images</string>
+    <string name="remove_duplicate_file">Remove Duplicate Files</string>
+
+</resources>
