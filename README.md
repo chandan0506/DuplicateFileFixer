@@ -1,1 +1,1 @@
-# DuplicateFileFixer
+Find Duplicate files like image, video, audio, document from your mobile device and can delete them.
